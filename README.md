@@ -1,16 +1,24 @@
-## Hi there 👋
+# 陈子乐
 
-<!--
-**chzyszx-kxc/chzyszx-kxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+27届非计算机专业，求职方向：初级全栈工程师 / 前端工程师。
 
-Here are some ideas to get you started:
+主要技术栈：Vue3、Vue Router、Axios、Node.js、Express、MySQL、Linux、Nginx。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 项目作品
+
+### 四季花礼展示与订阅平台
+Vue3 + Express + MySQL 全栈项目，独立完成展示型前台、订阅业务闭环与 Nginx 公网部署。
+
+- 在线访问：http://115.29.203.212/flower/
+- 项目仓库：https://github.com/chzyszx-kxc/flower-gift-platform
+
+### Tourism 旅游服务平台
+Vue3 + Express + MySQL 全栈项目，已完成公网部署，包含旅游业务页面、前后端接口交互和业务流程组织。
+
+- 在线访问：http://115.29.203.212/tourism/
+- 项目仓库：https://github.com/chzyszx-kxc/tourism-platform
+
+### Vue Admin Menu 封装实验
+后台菜单封装与路由映射探索，重点关注组件封装、菜单数据结构和路由组织。
+
+- 项目仓库：https://github.com/chzyszx-kxc/vue-admin-menu-lab

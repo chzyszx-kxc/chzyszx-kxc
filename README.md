@@ -10,6 +10,7 @@
 Vue3 + Express + MySQL 全栈项目，独立完成展示型前台、订阅业务闭环与 Nginx 公网部署。
 
 - 在线访问：http://115.29.203.212/flower/
+- 免注册在线访问：http://115.29.203.212/flower-demo/
 - 项目仓库：https://github.com/chzyszx-kxc/flower-gift-platform
 
 ### Tourism 旅游服务平台

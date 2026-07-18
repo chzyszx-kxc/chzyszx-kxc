@@ -19,7 +19,7 @@ Vue3 + Express + MySQL 全栈项目，已完成公网部署，包含旅游业务
 - 在线访问：http://115.29.203.212/tourism/
 - 项目仓库：https://github.com/chzyszx-kxc/tourism-platform
 
-### Vue Admin Menu 封装实验
+### Vue Admin Menu 封装实验(TypeScript)
 后台菜单封装与路由映射探索，重点关注组件封装、菜单数据结构和路由组织。
 
 - 项目仓库：https://github.com/chzyszx-kxc/vue-admin-menu-lab

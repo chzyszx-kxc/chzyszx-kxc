@@ -17,6 +17,7 @@ Vue3 + Express + MySQL 全栈项目，独立完成展示型前台、订阅业务
 Vue3 + Express + MySQL 全栈项目，已完成公网部署，包含旅游业务页面、前后端接口交互和业务流程组织。
 
 - 在线访问：http://115.29.203.212/tourism/
+- 免注册在线访问：http://115.29.203.212/tourism-demo/
 - 项目仓库：https://github.com/chzyszx-kxc/tourism-platform
 
 ### Vue Admin Menu 封装实验(TypeScript + Vuex)

@@ -24,3 +24,8 @@ Vue3 + Express + MySQL 全栈项目，已完成公网部署，包含旅游业务
 后台菜单封装与路由映射探索，重点关注组件封装、菜单数据结构和路由组织。
 
 - 项目仓库：https://github.com/chzyszx-kxc/vue-admin-menu-lab
+
+### 实时数据可视化看板(EChart)
+一个服务于数据的数据大屏
+
+- 项目仓库：https://github.com/chzyszx-kxc/Data_Visualization_Dashboard/tree/main

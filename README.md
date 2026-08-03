@@ -34,3 +34,4 @@ Vue3 + Express + MySQL 全栈项目，已完成公网部署，包含旅游业务
 存放了可移植小组件
 
 - 项目仓库：https://github.com/chzyszx-kxc/fullstack-feature-lab/
+  - 移动端图片上传(uni-app、Vue、Express)

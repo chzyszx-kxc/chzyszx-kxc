@@ -29,3 +29,8 @@ Vue3 + Express + MySQL 全栈项目，已完成公网部署，包含旅游业务
 一个服务于数据的数据大屏
 
 - 项目仓库：https://github.com/chzyszx-kxc/Data_Visualization_Dashboard/tree/main
+
+### 组件仓库
+存放了可移植小组件
+
+- 项目仓库：https://github.com/chzyszx-kxc/fullstack-feature-lab/

@@ -5,6 +5,11 @@
 主要技术栈：Vue3、Vue Router、Axios、Node.js、Express、MySQL、Linux、Nginx。
 
 ## 项目作品
+### 花礼零售平台
+Vue + Python Django
+
+在线访问：http://115.29.203.212/retail-flower-demo
+项目仓库：https://github.com/chzyszx-kxc/retail-flower-shop-system
 
 ### 花礼展示与订阅平台
 Vue3 + Express + MySQL 全栈项目，独立完成展示型前台、订阅业务闭环与 Nginx 公网部署。
